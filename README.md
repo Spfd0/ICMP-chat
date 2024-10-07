@@ -23,7 +23,7 @@ This project consists of two Python scripts that enable covert communication usi
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/icmp-covert-communication.git
+   git clone https://github.com/Spfd0/icmp-covert-communication.git
    cd icmp-covert-communication
 
 2. Install the required packages:
