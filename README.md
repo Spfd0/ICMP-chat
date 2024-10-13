@@ -1,5 +1,9 @@
 # ICMP Covert Communication Tool
 
+<p align="center">
+    <img width="200" src="https://i.ibb.co/CVL2Vcn/icmpchat.jpg" alt="Material Bread logo">
+</p>
+
 This project consists of two Python scripts that enable covert communication using ICMP packets. The scripts allow users to send and receive hidden messages within ICMP Echo Request packets.
 
 ## Scripts
